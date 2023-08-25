@@ -1,4 +1,6 @@
 ### Hi there 👋
+Im currently learning at generations and githubCampus. I would like to meet some begginner friendly people!.
+
 
 <!--
 **JpHernandezOrellana/JpHernandezOrellana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
