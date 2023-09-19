@@ -1,7 +1,8 @@
-Mi nombre es juan pablo, mi objetivo principal es conectar las dimensiones de la vida a través de la tecnología. soy psicólogo de profesión y actualmente estoy iniciandome en el mundo de la programación. Actualmente estoy aprendiendo a trabajar con js en el back y el front. 
+Mi nombre es juan pablo, mi objetivo principal es conectar las dimensiones de la vida a través de la tecnología. soy psicólogo de profesión y actualmente estoy iniciandome en el mundo de la programación. 
 Soy una persona muy motivada y amante de los desafíos. Estoy en busca de mi primer trabajo como desarrollador Jr. me gustaría poder aprender de la mano de profesionales ya establecidos para optimizar mi aprendizaje.
 
-![descarga](https://github.com/JpHernandezOrellana/JpHernandezOrellana/assets/141953878/bea5a319-3f19-458a-b437-26962b3dade0)
+
+![fondo-psicodelico-maravilloso-dibujado-mano_23-2149088958](https://github.com/JpHernandezOrellana/JpHernandezOrellana/assets/141953878/afc1011c-0ac4-404b-aeb1-7f68ae8defff)
 
 
 <!--
