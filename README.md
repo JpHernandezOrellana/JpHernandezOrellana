@@ -1,6 +1,6 @@
 Mi nombre es juan pablo, mi objetivo principal es conectar las dimensiones de la vida a través de la tecnología. soy psicólogo de profesión y actualmente estoy iniciandome en el mundo de la programación. 
 Soy una persona muy motivada y amante de los desafíos. Estoy en busca de mi primer trabajo como desarrollador Jr. me gustaría poder aprender de la mano de profesionales ya establecidos para optimizar mi aprendizaje.
-
+https://jphernandezorellana.github.io
 
 
 
