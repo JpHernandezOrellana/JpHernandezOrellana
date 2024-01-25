@@ -1,4 +1,4 @@
-Mi nombre es juan pablo, mi objetivo principal es conectar las dimensiones de la vida a través de la tecnología. Estudie psicología y desempeño como analista de datos.
+Mi objetivo principal es conectar las dimensiones de la vida a través de la tecnología. Estudie psicología y desempeño como analista de datos.
 
 Limpio datos con python, matplotlib, seaborn y genero representaciones visuales basadas en estadistica para luego presentarlas al cliente con habilidades de encuadre de ciencias sociales.
 https://jphernandezorellana.github.io
