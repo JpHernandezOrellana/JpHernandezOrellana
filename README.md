@@ -1,6 +1,6 @@
-Mi objetivo principal es conectar las dimensiones de la vida a través de la tecnología. Estudie psicología y desempeño como analista de datos.
+Mi objetivo principal es conectar las dimensiones de la vida a través de la tecnología. 
 
-Limpio datos con python, matplotlib, seaborn y genero representaciones visuales basadas en estadistica para luego presentarlas al cliente con habilidades de encuadre de ciencias sociales.
+Limpio datos con python, matplotlib, seaborn y genero representaciones visuales basadas en estadistica para luego presentarlas al cliente con habilidades blandas.
 https://jphernandezorellana.github.io
 
 
